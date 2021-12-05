@@ -1,6 +1,7 @@
 *.mid
 *.csv
 *.txt
+*.json
 workspace.code-workspace
 
 # Byte-compiled / optimized / DLL files
